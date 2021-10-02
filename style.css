@@ -1,1 +1,35 @@
-/*  */
+body {
+    margin: 0;
+}
+
+.header {
+    color: red;
+    text-align: center;
+    margin: 1%;
+}
+
+.section {
+    margin: 0 0 1% 1%;
+}
+
+.heroes {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px outset black;
+    padding: 0.3%;
+    text-align: center;
+    margin-left: 2%;
+}
+
+.img {
+    width: 40%;
+}
+.article-title {
+    color: red;
+}
+
+p {
+    text-align: left;
+}
+
