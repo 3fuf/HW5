@@ -16,27 +16,40 @@ body {
 
 
 .section {
-    margin: 0 0 2% 2%;
+    margin: 0 0 1% 1%;
 }
 
 .heroes {
+    height: 600px;
     width: 20%;
     display: inline-block;
     vertical-align: top;
     border: 3px inset gray;
     padding: 0.3%;
     text-align: center;
-    margin-left: 3%;
+    margin: 0 0 3% 3%;
     background-color: #fff;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.img {
-    width: 40%;
+.image {
+    height: 200px;
 }
+
+.pic {
+    height: 100%;
+}
+
 .article-title {
     color: red;
 }
 
 p {
     text-align: left;
+}
+
+.description {
+    overflow: scroll;
+    height: 100%;
 }
