@@ -51,5 +51,8 @@ p {
 .description {
     overflow-y:  auto;
     height: 300px;
+}
 
+.line {
+    width: 90%;
 }
