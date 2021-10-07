@@ -14,11 +14,6 @@ body {
 
 }
 
-
-.section {
-    margin: 0 0 1% 1%;
-}
-
 .heroes {
     width: 20%;
     display: inline-block;
@@ -46,11 +41,6 @@ body {
 
 p {
     text-align: left;
-}
-
-.description {
-    overflow-y: hidden;
-    height: 300px;
 }
 
 .line {
