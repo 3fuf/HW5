@@ -26,7 +26,7 @@ body {
     border: 3px inset gray;
     padding: 0.3%;
     text-align: center;
-    margin: 0 0 3% 3%;
+    margin: 0 0 1% 1%;
     background-color: #fff;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -49,8 +49,7 @@ p {
 }
 
 .description {
-    overflow-y:  auto;
-    height: 300px;
+
 }
 
 .line {
